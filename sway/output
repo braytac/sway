@@ -1,0 +1,10 @@
+output "X11-1" {
+    mode 1920x1080@0.0Hz
+    pos 0 0
+    transform normal
+    scale 1.0
+    scale_filter nearest
+    adaptive_sync off
+    dpms on
+}
+output * bg "/home/braytac/Imágenes/walls/Ev4nIr.jpg" fill
